@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pizzarella - Stockton-on-Tees</string>
+
+    // Text for calling button
+    <string name="phoneNumber">Tap to call and order: 01642 76 76 76</string>
+
+    // Main body  text
+    <string name="openingHours">Are you OPEN? \n\n Mon - Thu: 5pm - 11pm" \n "Fri - Sun: 4pm - 11pm"</string>
+    <string name="shopBlurb">We use fresh ingredients and we \nmake the BEST parmos on Teesside.</string>
+
+    // Buttons at the bottom
+    <string name="shopAddress">18 Myton Rd \nStockton-on-Tees \nTS17 0WA \n\n See you soon!</string>
+    <string name="orderOnline">Tap to order \nonline:</string>
+    <string name="findShop">Tap for a \n map:</string>
+
+</resources>

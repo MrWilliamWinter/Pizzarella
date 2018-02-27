@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F5F0A5</color>
+    <color name="colorPrimaryDark">#61497c</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="menuYellow">#F5F0A5</color>
+    <color name="buttonColor">#ffcb6c</color>
+</resources>
